@@ -1390,15 +1390,15 @@ html {
 }
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
-</style>
 body {
     font-family: "Babas Neue", Bebas Neue, cursive;
     font-size: 14px;
     line-height: 1.42857143;
     color: #333;
     background-color: #fff
-}
 
+}
+</style>
 button,
 input,
 select,
