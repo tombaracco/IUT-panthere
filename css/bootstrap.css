@@ -1689,25 +1689,25 @@ mark {
 }
 
 .text-primary {
-    color: #337ab7
+    color: #FFD700
 }
 
 a.text-primary:focus,
 a.text-primary:hover {
-    color: #286090
+    color: #FFD700
 }
 
 .text-success {
-    color: #3c763d
+    color: #FFD700
 }
 
 a.text-success:focus,
 a.text-success:hover {
-    color: #2b542c
+    color: #FFD700
 }
 
 .text-info {
-    color: #31708f
+    color: #FFD700
 }
 
 a.text-info:focus,
@@ -1721,7 +1721,7 @@ a.text-info:hover {
 
 a.text-warning:focus,
 a.text-warning:hover {
-    color: #66512c
+    color: #FFD700
 }
 
 .text-danger {
@@ -1735,16 +1735,16 @@ a.text-danger:hover {
 
 .bg-primary {
     color: #fff;
-    background-color: #337ab7
+    background-color: #0070FF
 }
 
 a.bg-primary:focus,
 a.bg-primary:hover {
-    background-color: #286090
+    background-color: #0070FF
 }
 
 .bg-success {
-    background-color: #dff0d8
+    background-color: #0070FF
 }
 
 a.bg-success:focus,
@@ -1758,25 +1758,25 @@ a.bg-success:hover {
 
 a.bg-info:focus,
 a.bg-info:hover {
-    background-color: #afd9ee
+    background-color: #0070FF
 }
 
 .bg-warning {
-    background-color: #fcf8e3
+    background-color: #0070FF
 }
 
 a.bg-warning:focus,
 a.bg-warning:hover {
-    background-color: #f7ecb5
+    background-color: #0070FF
 }
 
 .bg-danger {
-    background-color: #f2dede
+    background-color: #0070FF
 }
 
 a.bg-danger:focus,
 a.bg-danger:hover {
-    background-color: #e4b9b9
+    background-color: #0070FF
 }
 
 .page-header {
