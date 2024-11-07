@@ -1386,19 +1386,19 @@ th {
 
 html {
     font-size: 10px;
-    -webkit-tap-highlight-color: FFD700(0, 0, 0, 0)
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0)
 }
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+</style>
 body {
     font-family: "Babas Neue", Bebas Neue, cursive;
     font-size: 14px;
     line-height: 1.42857143;
-    color: #FFD700;
-    background-color: #FFD700
-
+    color: #333;
+    background-color: #fff
 }
-</style>
+
 button,
 input,
 select,
@@ -1409,13 +1409,13 @@ textarea {
 }
 
 a {
-    color: #FFD700;
+    color: #337ab7;
     text-decoration: none
 }
 
 a:focus,
 a:hover {
-    color: #FFD700;
+    color: #23527c;
     text-decoration: underline
 }
 
@@ -1453,7 +1453,7 @@ img {
     height: auto;
     padding: 4px;
     line-height: 1.42857143;
-    background-color: #FFD700;
+    background-color: #fff;
     border: 1px solid #ddd;
     border-radius: 4px;
     -webkit-transition: all .2s ease-in-out;
@@ -1512,7 +1512,7 @@ h6 {
     font-family: Bebas Neue;
     font-weight: 500;
     line-height: 1.1;
-    color: FFD700
+    color: inherit
 }
 
 .h1 .small,
@@ -1541,7 +1541,7 @@ h6 .small,
 h6 small {
     font-weight: 400;
     line-height: 1;
-    color: #FFD700
+    color: #777
 }
 
 .h1,
@@ -1649,7 +1649,7 @@ small {
 .mark,
 mark {
     padding: .2em;
-    background-color: #FFD700
+    background-color: #fcf8e3
 }
 
 .text-left {
@@ -1685,98 +1685,98 @@ mark {
 }
 
 .text-muted {
-    color: #FFD700
+    color: #777
 }
 
 .text-primary {
-    color: #FFD700
+    color: #337ab7
 }
 
 a.text-primary:focus,
 a.text-primary:hover {
-    color: #FFD700
+    color: #286090
 }
 
 .text-success {
-    color: #FFD700
+    color: #3c763d
 }
 
 a.text-success:focus,
 a.text-success:hover {
-    color: #FFD700
+    color: #2b542c
 }
 
 .text-info {
-    color: #FFD700
+    color: #31708f
 }
 
 a.text-info:focus,
 a.text-info:hover {
-    color: #FFD700
+    color: #245269
 }
 
 .text-warning {
-    color: #FFD700
+    color: #8a6d3b
 }
 
 a.text-warning:focus,
 a.text-warning:hover {
-    color: #FFD700
+    color: #66512c
 }
 
 .text-danger {
-    color: #FFD700
+    color: #a94442
 }
 
 a.text-danger:focus,
 a.text-danger:hover {
-    color: #FFD700
+    color: #843534
 }
 
 .bg-primary {
     color: #fff;
-    background-color: #0070FF
+    background-color: #337ab7
 }
 
 a.bg-primary:focus,
 a.bg-primary:hover {
-    background-color: #0070FF
+    background-color: #286090
 }
 
 .bg-success {
-    background-color: #0070FF
+    background-color: #dff0d8
 }
 
 a.bg-success:focus,
 a.bg-success:hover {
-    background-color: #FFD700
+    background-color: #c1e2b3
 }
 
 .bg-info {
-    background-color: #FFD700
+    background-color: #d9edf7
 }
 
 a.bg-info:focus,
 a.bg-info:hover {
-    background-color: #0070FF
+    background-color: #afd9ee
 }
 
 .bg-warning {
-    background-color: #0070FF
+    background-color: #fcf8e3
 }
 
 a.bg-warning:focus,
 a.bg-warning:hover {
-    background-color: #0070FF
+    background-color: #f7ecb5
 }
 
 .bg-danger {
-    background-color: #0070FF
+    background-color: #f2dede
 }
 
 a.bg-danger:focus,
 a.bg-danger:hover {
-    background-color: #0070FF
+    background-color: #e4b9b9
 }
 
 .page-header {
