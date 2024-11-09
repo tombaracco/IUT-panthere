@@ -1391,6 +1391,7 @@ html {
     font-size: 40px!important;
     font-family: "Babas Neue", Bebas Neue, cursive !important;
     -webkit-tap-highlight-color: rgba(0, 0, 0, 1)
+     color: black !important; 
 }
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
