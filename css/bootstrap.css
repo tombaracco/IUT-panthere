@@ -11,6 +11,10 @@ html {
     -webkit-text-size-adjust: 100%;
     -ms-text-size-adjust: 100%
 }
+
+h1 {
+    font-family: "Babas Neue", Bebas Neue, cursive;
+}
 .tc-black {
     color: black;
 }
