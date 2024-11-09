@@ -314,9 +314,9 @@ th {
     position: relative;
     top: 1px;
     display: inline-block;
-    font-family: 'Glyphicons Halflings';
+    font-family: 'Bahnschrift';
     font-style: normal;
-    font-weight: 400;
+    font-weight: 40;
     line-height: 1;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale
@@ -1540,7 +1540,7 @@ h5 .small,
 h5 small,
 h6 .small,
 h6 small {
-    font-weight: 400;
+    font-weight: 40;
     line-height: 1;
     color: #777
 }
@@ -3245,7 +3245,7 @@ input[type=search] {
     min-height: 20px;
     padding-left: 20px;
     margin-bottom: 0;
-    font-weight: 400;
+    font-weight: 40;
     cursor: pointer
 }
 
