@@ -1385,8 +1385,8 @@ th {
 }
 
 html {
-    font-size: 40px;
-    font-family: "Babas Neue", Bebas Neue, cursive;
+    font-size: 40px!important;
+    font-family: "Babas Neue", Bebas Neue, cursive !important;
     -webkit-tap-highlight-color: rgba(0, 0, 0, 1)
 }
 <style>
@@ -1597,7 +1597,7 @@ h6 small {
 
 .h1,
 h1 {
-    font-size: 36px
+    font-size: 35px
 }
 
 .h2,
