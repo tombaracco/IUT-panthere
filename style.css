@@ -818,8 +818,9 @@ h4 {
 }
 
 .bg-banniere {
-    background-image: url("img/agence-la-panthere.jpg");
-}
+    background-image: url("img/Agence.webp");
+    background-size: cover; /* Ajuste l'image pour couvrir tout le bloc */
+    background-position: center; /* Centre l'image dans le bloc */
 
 .bg-presentation {
     background-image: url("img/image-de-presentation.bmp");
